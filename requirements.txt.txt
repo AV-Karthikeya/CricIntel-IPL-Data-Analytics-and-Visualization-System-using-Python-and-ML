@@ -1,0 +1,7 @@
+python
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyter or google colab
+IPL.csv Dataset
