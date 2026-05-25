@@ -1,6 +1,6 @@
 # CricIntel
 
-CricIntel is an IPL data analytics Presonal Project built on 17 seasons and 280,000+ deliveries of ball-by-ball cricket dataset. It covers the full data science pipeline from raw data cleaning and feature engineering to unsupervised player and venue clustering, ML-based match winner prediction, and first innings score prediction using powerplay and middle-over data as early indicators using Linear regression. A custom NLP query engine sits on top of the entire system, routing natural language questions to the right analysis and returning ranked, visualised results. Whether you are a cricket fan, a data science learner, or a recruiter, CricIntel is designed to show what thoughtful, data work looks like on a domain you actually passionate about.
+CricIntel is an IPL data analytics Personal Project built on 17 seasons and 280,000+ deliveries of ball-by-ball cricket data. It covers the full data science pipeline — from raw data cleaning and feature engineering to unsupervised player and venue clustering, ML-based match winner prediction, and first innings score prediction using powerplay and middle-over data as early indicators via Linear Regression. A custom NLP query engine sits on top of the entire system, routing natural language questions to the right analysis and returning ranked, visualised results. Whether you are a cricket fan, a data science learner, or a recruiter, CricIntel is designed to show what thoughtful, end-to-end data work looks like on a domain you are actually passionate about.
 
 ## Dataset
 - File: `IPL.csv` from kaggle
